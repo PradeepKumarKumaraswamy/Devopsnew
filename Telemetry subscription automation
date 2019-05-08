@@ -1,4 +1,4 @@
-
+#This code executes Network telemetry data subscription on routers and identifies interface flaps on L2/L3 services in the Network Stack example bgp,ospf, ldp etc 
 puts "Subscription proc usage syntax: telemetry_pull  \"Protocol\" \"Dutname\""
 puts "checking proc usage syntax: telemetry_check  \"Protocol\" \"Dutname\"" 
  
